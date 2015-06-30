@@ -5,13 +5,13 @@ Try it and enjoy it. There is no warrant about this driver. Please feel free to 
 
 Usage:
 
-0. install build-essential linux-header linux-headers-3.2.0-24-generic, replace 3.2.0-24-generic with `uname -r` in your system.
+1. install build-essential linux-header linux-headers-3.2.0-24-generic, replace 3.2.0-24-generic with `uname -r` in your system.
 > sudo apt-get install build-essential
 > sudo apt-get install linux-headers-3.2.0-24-generic
 
-1. download the source code
+2. download the source code
 
-2. change directory to Linux_DM962x_3.2
+3. change directory to Linux_DM962x_3.2
 > cd Linux_DM962x_3.2
 
 4. build .ko
