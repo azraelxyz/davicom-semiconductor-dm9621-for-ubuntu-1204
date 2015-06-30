@@ -1,0 +1,1 @@
+cmd_/home/kerker/uptech/Linux_DM962x_2.6/dm9620.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.2.0-23-generic/scripts/module-common.lds --build-id  -o /home/kerker/uptech/Linux_DM962x_2.6/dm9620.ko /home/kerker/uptech/Linux_DM962x_2.6/dm9620.o /home/kerker/uptech/Linux_DM962x_2.6/dm9620.mod.o
